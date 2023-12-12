@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\aquam\source\repos\MyPoker\MyPoker\Source.cpp(77,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\aquam\source\repos\MyPoker\MyPoker\Source.cpp(77,16): warning C4244:         with
+C:\Users\aquam\source\repos\MyPoker\MyPoker\Source.cpp(77,16): warning C4244:         [
+C:\Users\aquam\source\repos\MyPoker\MyPoker\Source.cpp(77,16): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\aquam\source\repos\MyPoker\MyPoker\Source.cpp(77,16): warning C4244:         ]
+C:\Users\aquam\source\repos\MyPoker\MyPoker\Source.cpp(118,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aquam\source\repos\MyPoker\MyPoker\Source.cpp(469,4): warning C4551: function call missing argument list
+  MyPoker.vcxproj -> C:\Users\aquam\source\repos\MyPoker\Debug\MyPoker.exe
